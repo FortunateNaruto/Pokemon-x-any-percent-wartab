@@ -1654,6 +1654,7 @@ Heal to full
 Ether Close Combat
 
 Equip Lucarionite
+
 :::::trainer[Elite Four Siebold]
  ::::pokemon[Clawitzer]
     - [Mega Evolve] Close Combat
@@ -1697,15 +1698,16 @@ Equip Lucarionite
  ::::pokemon[Gourgeist]
     - If took damage
       - Heal to full
-        - If Gourgeist uses Phantom Force and you have X-Defense:
-          - X-Defense
-          - Heal to full
+      - If Gourgeist uses Phantom Force and you have X-Defense
+       >- X-Defense
+       >- Heal to full
     - Shadow Claw
  ::::
  ::::pokemon[Gardevoir]
     - Shadow Claw
  ::::
 :::::
+
 :::::trainer[Champion Diantha (safer version)]
  ::::pokemon[Hawlucha]
     - [Mega Evolve] Swords Dance 
